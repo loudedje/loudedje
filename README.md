@@ -7,6 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loudedje&show_icons=true&theme=dracula)
 
+E-mail: loudedjemas@gmail.com
+
 
 
 
