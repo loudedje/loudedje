@@ -6,7 +6,7 @@
 
 💻 Proficient in Java, JavaScript, HTML, CSS, and C.
 
-🔍 Exploring the vast world of technology and sharing my developer journey.
+🔍 Exploring the vast world of technology and learning alongside the MJcode group and members of the Fronteira Tec junior company at the UFFS in the market sector.
 
 📖 Currently in the fourth phase of my undergraduate studies.
 
