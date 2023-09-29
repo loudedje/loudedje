@@ -1,4 +1,18 @@
-### Hello Guys ✋
+### Hello, I'm Loude Djema Sime!
+
+📚 Computer Science student at the Federal University.
+🚀 Tech enthusiast and software developer.
+💻 Proficient in Java, JavaScript, HTML, CSS, and C.
+🔍 Exploring the vast world of technology and sharing my developer journey.
+📖 Currently in the fourth phase of my undergraduate studies.
+
+📫 Get in touch:
+
+- Email: loudedjemas@gmail.com  - loude.sime@estudante.uffs.edu.br
+
+
+Feel free to explore my projects and follow along with my learning and development journey!
+
 
 
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djemalee_)
@@ -7,7 +21,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loudedje&show_icons=true&theme=dracula)
 
-E-mail: loudedjemas@gmail.com  - loude.sime@estudante.uffs.edu.br
 
 
 
