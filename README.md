@@ -1,9 +1,13 @@
 ### Hello, I'm Loude Djema Sime!
 
 📚 Computer Science student at the Federal University.
+
 🚀 Tech enthusiast and software developer.
+
 💻 Proficient in Java, JavaScript, HTML, CSS, and C.
+
 🔍 Exploring the vast world of technology and sharing my developer journey.
+
 📖 Currently in the fourth phase of my undergraduate studies.
 
 📫 Get in touch:
