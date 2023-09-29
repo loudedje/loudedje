@@ -2,6 +2,8 @@
 
 📚 Computer Science student at the Federal University.
 
+👔 Currently working as an export assistant.
+
 🚀 Tech enthusiast and software developer.
 
 💻 Proficient in Java, JavaScript, HTML, CSS, and C.
