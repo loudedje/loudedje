@@ -30,7 +30,7 @@ Feel free to explore my projects and follow along with my learning and developme
 
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=loudedje&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loudedje&layout=compact&theme=graywhite)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loudedje&layout=compact&theme=dracula)
 
 
 
