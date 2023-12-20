@@ -28,7 +28,7 @@ Feel free to explore my projects and follow along with my learning and developme
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loudedje&show_icons=true&theme=dracula)
 
-https://github-readme-streak-stats.herokuapp.com/?user=loudedje&theme=default
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=loudedje&theme=default)
 
 
 
