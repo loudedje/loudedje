@@ -37,6 +37,7 @@ Feel free to explore my projects and follow along with my learning and developme
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=loudedje&theme=dracula)
 
+
 ### 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loudedje&layout=compact&theme=dracula)
 
