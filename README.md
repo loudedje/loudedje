@@ -30,13 +30,14 @@ Feel free to explore my projects and follow along with my learning and developme
 <img src="https://image.lexica.art/full_jpg/3be7b645-ec6b-4d8a-b89c-1af25777f367" alt="Cool Car" width="300px">
 
 
-
-
-
+### 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loudedje&show_icons=true&theme=dracula)
 
+
+### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=loudedje&theme=dracula)
 
+### 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loudedje&layout=compact&theme=dracula)
 
 
