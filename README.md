@@ -27,7 +27,7 @@ Feel free to explore my projects and follow along with my learning and developme
 [![Intagram](https://img.shields.io/badge/dev-E4405F?style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/loude)
 
 ### 🎨 Cool Car
-<img src="[https://www.designi.com.br/images/preview/10913908.jpg](https://image.lexica.art/full_jpg/3be7b645-ec6b-4d8a-b89c-1af25777f367)" alt="Cool Car" width="300px">
+<img src="https://image.lexica.art/full_jpg/3be7b645-ec6b-4d8a-b89c-1af25777f367" alt="Cool Car" width="300px">
 
 
 
