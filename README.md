@@ -7,11 +7,24 @@
 
 🚀 Tech enthusiast and software developer.
 
-💻 Proficient in Java, JavaScript, HTML, CSS, and C.
+💻 Proficient in 
 
-Frameworks: Spring Boot, Node.js.
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) 
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#)
 
-Database: PostgreSQL MySQl.
+Frameworks
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#) 
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
+
+Database
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#) 
+
 
 🔍 Exploring the vast world of technology and learning alongside the MJcode group and serving as the Market Director at Fronteira Tec junior company at UFFS in the market sector.
 
@@ -31,9 +44,8 @@ Feel free to explore my projects and follow along with my learning and developme
 ### 🎨 Cool Car
 <img src="https://image.lexica.art/full_jpg/3be7b645-ec6b-4d8a-b89c-1af25777f367" alt="Cool Car" width="200px">
 
-### 📊 GitHub Stats and Contribution Graph
+### 📊 GitHub Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loudedje&show_icons=true&theme=dracula)
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=loudedje&theme=dracula)
 
 ### 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loudedje&layout=compact&theme=dracula)
