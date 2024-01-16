@@ -29,7 +29,7 @@ Feel free to explore my projects and follow along with my learning and developme
 [![Dev.to](https://img.shields.io/badge/dev-E4405F?style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/loude)
 
 ### 🎨 Cool Car
-![Cool Car](https://image.lexica.art/full_jpg/3be7b645-ec6b-4d8a-b89c-1af25777f367) - width="200px"
+<img src="https://image.lexica.art/full_jpg/3be7b645-ec6b-4d8a-b89c-1af25777f367" alt="Cool Car" width="200px">
 
 ### 📊 GitHub Stats and Contribution Graph
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loudedje&show_icons=true&theme=dracula)
