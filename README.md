@@ -3,7 +3,7 @@
 
 📚 I am a Computer Science student at the Federal University.
 
-👔 Currently employed as an export assistant.
+👔 Currently employed as an export assistant and interning at Compass UOL, specializing in Java Spring Boot with MySQL database.
 
 🚀 Tech enthusiast and software developer.
 
@@ -11,7 +11,7 @@
 
 Frameworks: Spring Boot, Node.js.
 
-Database: PostgreSQL.
+Database: PostgreSQL MySQl.
 
 🔍 Exploring the vast world of technology and learning alongside the MJcode group and serving as the Market Director at Fronteira Tec junior company at UFFS in the market sector.
 
