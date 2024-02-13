@@ -28,6 +28,10 @@ Feel free to explore my projects and follow along with my learning and developme
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Djema50852883)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loude-djema-sime-a41135207/)
 - [![Dev.to](https://img.shields.io/badge/dev-E4405F?style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/loude)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Djema50852883)
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Loude20)
+
+
 
 <div align="center">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loudedje&theme=tokyonight"/>
