@@ -1,5 +1,3 @@
----
-
 ### Hello, I'm Loude Djema Sime! 🚀
 
 📚 I am a Computer Science student at the Federal University.
