@@ -1,5 +1,3 @@
-Certainly! Here's the improved version of your text:
-
 ---
 
 ### Hello, I'm Loude Djema Sime! 🚀
