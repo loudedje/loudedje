@@ -5,7 +5,7 @@
 👔 Currently employed as an export assistant and interning at Compass UOL, specializing in Java Spring Boot with MySQL database.
 
 🔧 **Skills:**
-- Programming: C, Java, Python, JavaScript
+- Programming: C, Python, JavaScript
 - Backend: Java/Spring Boot
 - Databases: SQL, MySQL && PostgreSQL
 - Others: Docker, HTML5, CSS3, Vuejs, ReactJs, SOLID, Keycloak.
