@@ -7,7 +7,7 @@
 🔧 **Skills:**
 - Programming: C, Python, JavaScript, Java
 - Backend: Java/Spring Boot
-- Databases: NoSql, MySQL && PostgreSQL
+- Databases: NoSQL, MySQL && PostgreSQL
 - Others: HTML5, CSS3, ReactJs, SOLID.
 - Tools: Git, GitHub
 
