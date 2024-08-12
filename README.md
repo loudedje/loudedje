@@ -1,8 +1,6 @@
 ### Hello, I'm Loude Djema Sime! 🚀
 
-📚 I am a Computer Science student at the Federal University.
-
-👔 Currently employed as an export assistant and interning at Compass UOL, specializing in Java Spring Boot with MySQL database.
+📚 I am a Computer Science student at UFFS.
 
 🔧 **Skills:**
 - Programming: C, Python, JavaScript, Java
@@ -12,11 +10,7 @@
 - Tools: Git, GitHub
 
 🛠️ **Using:**
-API Gateway | RabbitMQ | Kafka | Docker | Keycloak
-
-🔍 Exploring the vast world of technology and learning alongside the MJcode group, serving as the Market Director at Fronteira Tec junior company at UFFS in the market sector.
-
-📖 Currently in the fifth phase of my undergraduate studies.
+API Gateway | RabbitMQ | Kafka | Docker 
 
 📫 **Get in touch:**
 - Email: loudedjemas@gmail.com - loude.sime@estudante.uffs.edu.br
