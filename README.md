@@ -1,31 +1,60 @@
+
 ### Hello, I'm Loude Djema Sime! 🚀
 
-📚 I am a Computer Science student at UFFS.
+🎓 I’m a Computer Science student in the sixth phase at UFFS, currently working at Compass UOL. I am constantly evolving my skills and exploring new technologies.
 
-🔧 **Skills:**
-- Programming: C, Python, JavaScript, Java
-- Backend: Java/Spring Boot
-- Databases: NoSQL, MySQL && PostgreSQL
-- Others: HTML5, CSS3, ReactJs, SOLID.
-- Tools: Git, GitHub
-
-🛠️ **Using:**
-API Gateway | RabbitMQ | Kafka | Docker 
-
-📫 **Get in touch:**
-- Email: loudedjemas@gmail.com - loude.sime@estudante.uffs.edu.br
-
-Feel free to explore my projects and follow along with my learning and development journey!
-
-🔗 **Connect with me:**
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djemalee_)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Djema50852883)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loude-djema-sime-a41135207/)
-- [![Dev.to](https://img.shields.io/badge/dev-E4405F?style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/loude)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Djema50852883)
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Loude20)
+╚════════════════════════════════════════════════════════════╝
 
 
+🔧 **Technical Skills:**
+
+- **Programming Languages:** C, Python, JavaScript, Java
+- **Backend Development:** Java with Spring Boot
+- **Databases:** NoSQL, MySQL, PostgreSQL
+- **Web Development:** HTML5, CSS3, ReactJs, SOLID principles
+- **Tools & Platforms:** Git, GitHub, Docker, API Gateway, RabbitMQ, Kafka
+
+---
+
+💼 **Current Tools & Technologies:**
+
+- **API Management:** API Gateway
+- **Message Brokers:** RabbitMQ, Kafka
+- **Containerization:** Docker
+
+---
+
+📫 **Contact Me:**
+
+- **Email:** 
+  - loudedjemas@gmail.com 
+  - loude.sime@estudante.uffs.edu.br
+
+---
+
+🔗 **Connect with Me:**
+
+<p align="center">
+  <a href="https://www.instagram.com/djemalee_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Djema50852883">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/loude-djema-sime-a41135207/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/loude">
+    <img src="https://img.shields.io/badge/dev-E4405F?style=for-the-badge&logo=dev&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/Loude20">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+📊 **GitHub Stats:**
 
 <div align="center">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loudedje&theme=tokyonight"/>
@@ -35,3 +64,5 @@ Feel free to explore my projects and follow along with my learning and developme
 </div>
 
 ---
+
+Feel free to explore my projects and follow along with my learning and development journey!
