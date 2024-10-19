@@ -12,7 +12,7 @@
 - **Backend Development:** Java with Spring Boot
 - **Databases:** NoSQL, MySQL, PostgreSQL
 - **Web Development:** HTML5, CSS3, ReactJs
-- **Tools & Platforms:** Git, GitHub, Docker, API Gateway, RabbitMQ, Kafka,Bitbucket
+- **Tools & Platforms:** Git, GitHub,Bitbucket
 
 ---
 
