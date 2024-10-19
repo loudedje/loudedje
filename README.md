@@ -11,8 +11,8 @@
 - **Programming Languages:** C, Python, JavaScript, Java
 - **Backend Development:** Java with Spring Boot
 - **Databases:** NoSQL, MySQL, PostgreSQL
-- **Web Development:** HTML5, CSS3, ReactJs, SOLID principles
-- **Tools & Platforms:** Git, GitHub, Docker, API Gateway, RabbitMQ, Kafka
+- **Web Development:** HTML5, CSS3, ReactJs
+- **Tools & Platforms:** Git, GitHub, Docker, API Gateway, RabbitMQ, Kafka,Bitbucket
 
 ---
 
