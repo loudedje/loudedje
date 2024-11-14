@@ -28,7 +28,7 @@
 
 - **Email:** 
   - loudedjemas@gmail.com | loude.sime@estudante.uffs.edu.br
-  - 
+    
 ---
 
 🔗 **Connect with Me:**
