@@ -1,7 +1,7 @@
 
 ### Hello, I'm Loude Djema Sime! 🚀
 
-🎓 I’m a Computer Science student in the sixth phase at UFFS, currently working at Compass UOL. I am constantly evolving my skills and exploring new technologies.
+🎓 I’m a Computer Science student in the sixth phase at UFFS. I am constantly evolving my skills and exploring new technologies.
 
 ╚════════════════════════════════════════════════════════════╝
 
