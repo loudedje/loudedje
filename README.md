@@ -10,7 +10,7 @@
 
 - **Programming Languages:** C, Python, JavaScript, Java
 - **Backend Development:** Java with Spring Boot
-- **Databases:** NoSQL, MySQL, PostgreSQL
+- **Databases:** NoSQL, SQL
 - **Web Development:** HTML5, CSS3, ReactJs
 - **Tools & Platforms:** Git, GitHub,Bitbucket
 
