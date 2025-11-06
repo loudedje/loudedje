@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&pause=1000&color=6C63FF&width=500&lines=Hi!+I'm+Loude+Djema+Sime!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
   
   <blockquote>
-  <p>🎓 I’m a <strong>Computer Science student</strong> at UFFS, currently in the sixth phase.  
+  <p>🎓 I’m a <strong>Computer Science student</strong> at UFFS.  
   Passionate about <strong>technology, systems architecture, and backend development</strong>.  
   Always learning, building, and growing. 🚀</p>
   </blockquote>
@@ -72,11 +72,5 @@
 </p>
 
 ---
-
-<div align="center">
-  <br><p><b>Visitor Count</b></p>  
-  <img src="https://profile-counter.glitch.me/{loudedje}/count.svg" />
-  <br><br>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
