@@ -15,9 +15,9 @@
 ### 🔧 Technical Skills
 
 - **Programming Languages:** C, Python, JavaScript, Java  
-- **Backend Development:** Java with Spring Boot  
+- **Backend Development:** Java with Spring Boot , NodeJs
 - **Databases:** NoSQL, SQL  
-- **Web Development:** HTML5, CSS3, ReactJs  
+- **Frontend Development:** HTML5, CSS3, ReactJs, Angular
 - **Tools & Platforms:** Git, GitHub, Bitbucket  
 
 ---
