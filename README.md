@@ -6,7 +6,6 @@
   <blockquote>
   <p>🎓 <strong>Computer Science student</strong> at UFFS (graduating Dec/2026).<br>
   Focused on <strong>data engineering, process automation, and backend development</strong>.<br>
-  Currently building test automation tooling with Playwright + LLMs. 🚀</p>
   </blockquote>
 </div>
 
