@@ -25,8 +25,6 @@
 ---
 
 ### 🚀 Featured Projects
-
-- **[Hybrid Recommendation System](https://github.com/loudedje)** — Final thesis (grade 9.5): market recommender combining a gravity model, collaborative filtering (KNN) and content-based filtering, validated with ranking metrics (Precision@k, NDCG@k). `Python · scikit-learn · Pandas`
 - **[Sales Analytics](https://github.com/loudedje/projeto-sql-supermercado)** — Star schema modeling with 16 analytical queries using window functions, CTEs and RFM segmentation. `PostgreSQL`
 - **[E-commerce API](https://github.com/loudedje/ecommerce)** — Complete REST API with real business rules, ViaCEP integration and Docker deploy. `Java 17 · Spring Boot 3 · JUnit 5`
 - **[HTG/BRL Converter](https://github.com/loudedje/ConversorHTG_BRL)** — Real-time currency converter deployed on Streamlit Cloud. `Python · Streamlit`
