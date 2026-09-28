@@ -5,7 +5,7 @@
   
   <blockquote>
   <p>🎓 <strong>Computer Science student</strong> at UFFS (graduating Dec/2026).<br>
-  Focused on <strong>data engineering, process automation, and backend development</strong>.<br>
+  Focused on <strong>data analytics, process automation, and backend development</strong>.<br>
   </blockquote>
 </div>
 
@@ -16,15 +16,15 @@
 - **Programming Languages:** Python, SQL, TypeScript, Java, JavaScript, C
 - **Data & Analytics:** Pandas, NumPy, scikit-learn, SQL analytics (window functions, CTEs), star schema
 - **Automation:** n8n, Playwright, REST API integration
-- **Backend Development:** Java with Spring Boot, Node.js
-- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Backend Development:** Java with Spring Boot
+- **Databases:** PostgreSQL, MySQL
 - **Frontend Development:** React, HTML5, CSS3
-- **Tools & Platforms:** Git, GitHub, Azure DevOps, Docker, Apache Kafka
+- **Tools & Platforms:** Git, GitHub, Azure DevOps, Docker
 
 ---
 
 ### 🚀 Featured Projects
-- **[Sales Analytics](https://github.com/loudedje/projeto-sql-supermercado)** — Star schema modeling with 16 analytical queries using window functions, CTEs and RFM segmentation. `PostgreSQL`
+- **[Sales Analytics](https://github.com/loudedje/projeto-sql-supermercado)** — Star schema modeling with 16 analytical queries using window functions, CTEs and RFM segmentation to identify high-value customer segments. `PostgreSQL`
 - **[E-commerce API](https://github.com/loudedje/ecommerce)** — Complete REST API with real business rules, ViaCEP integration and Docker deploy. `Java 17 · Spring Boot 3 · JUnit 5`
 - **[HTG/BRL Converter](https://github.com/loudedje/ConversorHTG_BRL)** — Real-time currency converter deployed on Streamlit Cloud. `Python · Streamlit`
 
@@ -33,11 +33,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/BarbosaThaissa/cine-info/main/src/assests/rainbow-readme.png" alt="arrow" />
 </div>
-
-### 📊 GitHub Stats
-
-
----
 
 ### 🌍 Languages
 
@@ -50,8 +45,7 @@
 <div align="center">
   <a href="mailto:loudedjemas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/loude-djema-sime/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://loudedje.github.io/Portifolio_LoudeDjema/"><img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://dev.to/loude"><img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://loudedjemaportifolio.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </div>
 
 ---
@@ -66,7 +60,6 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
 
