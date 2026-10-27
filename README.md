@@ -3,11 +3,12 @@
 # Hi, I'm Loude Djema Sime 👋
 
 **Computer Science student at UFFS (Brazil), graduating Dec 2026.**
-I work with data and ERP systems: SQL queries on real client data, report migration with result validation, data-flow automation and API integrations. Currently focused on **Data Analytics, Data Engineering and process automation**.
+I build with data, backend and automation: SQL analytics and data modeling, REST APIs in Java and Spring Boot, and workflows that integrate systems and cut manual work.
 
-- 💼 Software Development & Automation Intern at **M8 Sistemas** (ERP reporting, SQL Server, Crystal → Telerik migration)
-- 🌱 Currently studying **AWS re/Start** (Escola da Nuvem) and advanced SQL for analytics
-- 🌍 Open to **remote opportunities** 
+- 💼 Software Development & Automation Intern at **M8 Sistemas**
+- 🎯 Focused on **Data Analytics, Data Engineering and Backend Development**
+- 🌱 Currently studying **AWS re/Start** (Escola da Nuvem)
+- 💬 Ask me about SQL, data modeling, Spring Boot or automation with n8n
 
 ---
 
